@@ -48,4 +48,4 @@ RUN mkdir /mattermost-data/
 # Ports
 EXPOSE 8080
 
-CMD echo "MATTERMOST SHOULD RUN NOW !"
+CMD sleep 2h
